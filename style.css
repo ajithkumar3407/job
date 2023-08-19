@@ -1,0 +1,44 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+h1{
+	text-align:center;
+}
+.top{
+	text-align:end;
+}
+table{
+	border:2px dotted black; 
+	margin-left:370px;
+}
+
+td{
+	padding:5px;
+	border:1px dotted gray;
+}
+input{
+	border-style: inset;
+}
+select{
+	border-style: inset;
+}
+.bottm{
+	border-style: inset;
+}
+.scroll{
+	resize:none;
+	overflow-y:scroll;
+	border-style: inset;
+}
+h5{
+	padding-top:10px;	
+}
+.scr{
+	resize:none;
+	border-style: inset;
+}
+.button{
+	border-style: outset;
+}
